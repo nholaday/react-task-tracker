@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task Tracker by Nic Holaday
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,6 +13,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### `npm server`
+
+Starts a json-server "backend" at port 5001
+Open [http://localhost:5001](http://localhost:5001) to view it in your browser.
+
+Contents of this backend are simply a file `db.json`
 
 ### `npm test`
 
