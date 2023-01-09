@@ -1,5 +1,7 @@
 # React Task Tracker by Nic Holaday
 
+![image](https://user-images.githubusercontent.com/22227977/211367957-a7070829-55d5-47c8-a6de-cbff52bd4e8e.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
